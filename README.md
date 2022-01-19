@@ -24,9 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meinos10&layout=compact&theme=radical)](https://github.com/Meinos10)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/Meinos10" width="350" />](https://github.com/Meinos10)
-</details>
-
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/Meinos10) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
 
 <!--<details>
