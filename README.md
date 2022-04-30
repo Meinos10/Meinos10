@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Meinos10/Meinos10)](https://github.com/Meinos10/Meinos10)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
 [![Botlarım Badge](https://img.shields.io/badge/-Telegram_Botlarım-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=black&link=t.me/ReWoBio)](https://t.me/ReWoBio)
-![Queen Github stats](https://github-readme-stats.vercel.app/api?username=Meinos10&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <a href="https://github.com/Meinos10">
