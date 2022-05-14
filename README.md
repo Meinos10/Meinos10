@@ -27,6 +27,9 @@
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/Meinos10) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
 
 <!--<details>
-  <summary>📊 This week I spent my time on</summary>
+  <summary>📊 Bu hafta zamanımı harcadım </summary>
   [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meinos10&hide_title=true&hide_border=true&langs_count=1)](https://github.com/Meinos10)
 </details>-->
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&cover_image=true&theme=default&bar_color=00ffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&redirect=true)
