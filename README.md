@@ -4,6 +4,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
 [![Botlarım Badge](https://img.shields.io/badge/-Telegram_Botlarım-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=black&link=t.me/ReWoBio)](https://t.me/ReWoBio)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
+
 <a href="https://github.com/Meinos10/Meinos10">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
@@ -30,6 +32,3 @@
   <summary>📊 Bu hafta zamanımı harcadım </summary>
   [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meinos10&hide_title=true&hide_border=true&langs_count=1)](https://github.com/Meinos10)
 </details>-->
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&cover_image=true&theme=default&bar_color=00ffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&redirect=true)
