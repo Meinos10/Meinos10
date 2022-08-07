@@ -6,15 +6,13 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/Meinos10) 
 
-<a href="https://github.com/Meinos10/Meinos10">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
 
 <details>
   <summary>:zap: </summary>
   
 
-
+[<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" url="https://github.com/Meinos10" width="495px">](https://github.com/Meinos10)
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Meinos10&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=true)](https://github.com/Meinos10)
 
 </details>
