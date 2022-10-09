@@ -27,5 +27,5 @@
 
 <details>
   <summary>📊 Bu hafta zamanımı harcadım </summary>
-  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meinos10&hide_title=true&hide_border=true&langs_count=1)](https://github.com/Meinos10)
+  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meinos10&hide_title=true&hide_border=true&langs_count=1)] (https://github.com/Meinos10)
 </details>
