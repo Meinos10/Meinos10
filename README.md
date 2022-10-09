@@ -25,7 +25,7 @@
 
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/Meinos10) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
 
-<!--<details>
+<details>
   <summary>📊 Bu hafta zamanımı harcadım </summary>
   [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Meinos10&hide_title=true&hide_border=true&langs_count=1)](https://github.com/Meinos10)
-</details>-->
+</details>
