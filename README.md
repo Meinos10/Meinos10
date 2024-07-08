@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Meinos10/Meinos10)](https://github.com/Meinos10/Meinos10)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i278g9oqpyy68ogf8m3no8rcs&cover_image=true&theme=default&bar_color_cover=false)](https://open.spotify.com/user/i278g9oqpyy68ogf8m3no8rcs?si=723cc2e2199a423c)
 
 
 <details>
