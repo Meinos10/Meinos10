@@ -4,10 +4,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Meinos10&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=true)](https://github.com/Meinos10)
 
-
-
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -29,5 +25,5 @@
     <br>
     
   </p>
-
+</details>
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img>](https://github.com/Meinos10)
