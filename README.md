@@ -25,5 +25,6 @@
     <br>
     
   </p>
-</details>
+
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></img>](https://github.com/Meinos10)
+</details>
