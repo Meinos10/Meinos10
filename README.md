@@ -12,7 +12,7 @@
         <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=Meinos10&show_icons=true&theme=radical">
       </a>
       <a href="https://t.me/ReWoxi">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/pin/?username=Meinos10&repo=Meinos10"/>
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/pin/?username=Meinos10&repo=Meinos10&theme=radical"/>
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br>
