@@ -18,7 +18,7 @@
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://t.me/ReWoxi">
-        <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact">
+        <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meinos10&layout=compact">
       </a>
     </div>
     <br>
