@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Meinos10/Meinos10)](https://github.com/Meinos10/Meinos10)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Meinos10&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=true)](https://github.com/Meinos10)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -18,7 +18,7 @@
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://t.me/ReWoxi">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meinos10&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00f3e3&text_color=dddddd&icon_color=00f3e3&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact">
       </a>
     </div>
     <br>
