@@ -10,7 +10,7 @@
 <p align=center>
     <div align=center>
       <a href="https://t.me/ReWoxi">
-        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Meinos10&theme=react&border=00f3e3&stroke=00f3e3&ring=00f3e3&fire=ff8800&hide_border=true&theme=highcontrast"/>
+        ![ReWoxi's github stats](https://github-readme-stats.vercel.app/api?username=Meinos10&show_icons=true&theme=radical)
       </a>
       <a href="https://t.me/ReWoxi">
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Meinos10&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
