@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Meinos10/Meinos10)](https://github.com/Meinos10/Meinos10)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/ReWoxi)](https://t.me/ReWoxi)
+<iframe src="https://github.com/sponsors/Meinos10/button" title="Sponsor Meinos10" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
